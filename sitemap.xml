@@ -24,11 +24,6 @@
   </url>
   
   <url>
-    <loc>https://aunnnn.github.io/hugo-demo/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://aunnnn.github.io/hugo-demo/tags/</loc>
     <priority>0</priority>
   </url>

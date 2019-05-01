@@ -5,4 +5,3 @@ fields:
 - type: textarea
 pages:
 - content/posts/test-post.md
-- content/posts/test-post.md

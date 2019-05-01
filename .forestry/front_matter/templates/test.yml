@@ -3,3 +3,5 @@ label: Test
 hide_body: false
 fields:
 - type: textarea
+pages:
+- content/posts/test-post.md

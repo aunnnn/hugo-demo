@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>What I think</title>
-    <link>aunnnn.github.com/hugo-demo/</link>
+    <link>aunnnn.github.io/hugo-demo/</link>
     <description>Recent content on What I think</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Apr 2019 05:33:52 +0000</lastBuildDate>
     
-	<atom:link href="aunnnn.github.com/hugo-demo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="aunnnn.github.io/hugo-demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post Ever</title>
-      <link>aunnnn.github.com/hugo-demo/posts/my-first-post/</link>
+      <link>aunnnn.github.io/hugo-demo/posts/my-first-post/</link>
       <pubDate>Tue, 30 Apr 2019 05:33:52 +0000</pubDate>
       
-      <guid>aunnnn.github.com/hugo-demo/posts/my-first-post/</guid>
+      <guid>aunnnn.github.io/hugo-demo/posts/my-first-post/</guid>
       <description>Hello This is kinda cool
 Test</description>
     </item>
     
     <item>
       <title></title>
-      <link>aunnnn.github.com/hugo-demo/posts/test-post/</link>
+      <link>aunnnn.github.io/hugo-demo/posts/test-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>aunnnn.github.com/hugo-demo/posts/test-post/</guid>
+      <guid>aunnnn.github.io/hugo-demo/posts/test-post/</guid>
       <description>This is my post from forestry</description>
     </item>
     

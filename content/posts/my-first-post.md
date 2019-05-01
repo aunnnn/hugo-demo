@@ -1,6 +1,8 @@
 ---
-title: "My First Post"
-date: 2019-04-29T22:33:52-07:00
-draft: true
----
+title: My First Post
+date: 2019-04-30T05:33:52.000+00:00
 
+---
+## Hello 
+
+This is kinda cool

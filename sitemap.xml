@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>aunnnn.github.com/hugo-demo/posts/my-first-post/</loc>
     <lastmod>2019-04-30T05:33:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2019-04-30T05:33:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>aunnnn.github.com/hugo-demo/posts/</loc>
     <lastmod>2019-04-30T05:33:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/test-post/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>aunnnn.github.com/hugo-demo/</loc>
+    <lastmod>2019-04-30T05:33:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>aunnnn.github.com/hugo-demo/posts/test-post/</loc>
+  </url>
+  
+  <url>
+    <loc>aunnnn.github.com/hugo-demo/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>aunnnn.github.com/hugo-demo/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -2,7 +2,12 @@
 label: Test
 hide_body: false
 fields:
-- type: textarea
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Title
 pages:
 - content/posts/test-post-2.md
 - content/posts/test-post.md

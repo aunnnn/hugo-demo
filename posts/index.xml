@@ -28,6 +28,17 @@ Test again</description>
 		
 		<item>
 			<title></title>
+			<link>/posts/test-post-2/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>/posts/test-post-2/</guid>
+			<description>Just another test</description>
+			<content type="html"><![CDATA[<p>Just another test</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title></title>
 			<link>/posts/test-post/</link>
 			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 			

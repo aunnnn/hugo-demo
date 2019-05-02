@@ -1,4 +1,4 @@
-baseURL = "https://aunnnn.github.io/hugo-demo"
+baseURL = ""
 languageCode = "en-us"
 title = "What I think"
 theme = "hermit"

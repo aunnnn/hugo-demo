@@ -17,6 +17,12 @@ fields:
     time_format: 
     display_utc: 
   label: date published
+- name: second_title
+  type: text
+  config:
+    required: false
+  label: second title
+  description: Second title
 pages:
 - content/posts/test-post-2.md
 - content/posts/test-post.md

@@ -8,6 +8,15 @@ fields:
     required: false
   label: Title
   description: Title
+- name: date_published
+  type: datetime
+  description: Date published
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: 
+  label: date published
 pages:
 - content/posts/test-post-2.md
 - content/posts/test-post.md
